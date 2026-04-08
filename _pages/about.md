@@ -6,7 +6,7 @@ subtitle: Research Associate, <a href="https://www.ua.es">University of Alicante
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: main_photo.png
   image_circular: false
   more_info: >
     <p><a href="mailto:alberto.perezbernabeu@ua.es">alberto.perezbernabeu@ua.es</a></p>
